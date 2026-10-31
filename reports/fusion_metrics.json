@@ -1,0 +1,19 @@
+{
+    "model": "Text + Structured Feature Fusion",
+    "accuracy": 0.9798657718120806,
+    "precision": 0.7348837209302326,
+    "recall": 0.9132947976878613,
+    "f1_score": 0.8144329896907216,
+    "pr_auc": 0.9339970115310285,
+    "roc_auc": 0.9881981046985063,
+    "confusion_matrix": [
+        [
+            3346,
+            57
+        ],
+        [
+            15,
+            158
+        ]
+    ]
+}
