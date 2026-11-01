@@ -9,3 +9,7 @@ streamlit
 shap
 requests
 beautifulsoup4
+transformers 
+shap 
+lime 
+tqdm

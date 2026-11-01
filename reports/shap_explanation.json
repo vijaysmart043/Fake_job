@@ -1,0 +1,64 @@
+{
+    "prediction": "Genuine",
+    "fraud_score": 1.1575247527064923e-17,
+    "text_contribution": -11.019977281870599,
+    "structured_feature_contributions": {
+        "employment_type": -0.0234715816134083,
+        "required_experience": 0.15865069434632256,
+        "required_education": -0.12212324243212758,
+        "industry": 0.8402236663832681,
+        "function": -1.6955193543392642,
+        "department": -0.24046950426261535,
+        "location": -0.1904817839349934,
+        "salary_range": 0.0,
+        "telecommuting": 0.0,
+        "has_company_logo": -0.3556409199680558,
+        "has_questions": 0.21527724699866785
+    },
+    "top_structured_features": [
+        {
+            "feature": "function",
+            "contribution": -1.6955193543392642
+        },
+        {
+            "feature": "industry",
+            "contribution": 0.8402236663832681
+        },
+        {
+            "feature": "has_company_logo",
+            "contribution": -0.3556409199680558
+        },
+        {
+            "feature": "department",
+            "contribution": -0.24046950426261535
+        },
+        {
+            "feature": "has_questions",
+            "contribution": 0.21527724699866785
+        },
+        {
+            "feature": "location",
+            "contribution": -0.1904817839349934
+        },
+        {
+            "feature": "required_experience",
+            "contribution": 0.15865069434632256
+        },
+        {
+            "feature": "required_education",
+            "contribution": -0.12212324243212758
+        },
+        {
+            "feature": "employment_type",
+            "contribution": -0.0234715816134083
+        },
+        {
+            "feature": "salary_range",
+            "contribution": 0.0
+        },
+        {
+            "feature": "telecommuting",
+            "contribution": 0.0
+        }
+    ]
+}

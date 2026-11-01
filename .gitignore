@@ -1,0 +1,20 @@
+cat > .gitignore <<'EOF'
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Large DistilBERT model files
+models/distilbert/
+
+# Generated reports
+reports/lime_explanation.html
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+EOF

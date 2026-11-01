@@ -1,0 +1,68 @@
+{
+    "job_title": "customer service rep",
+    "actual_label": 1,
+    "prediction": 1,
+    "prediction_label": "Fraud",
+    "fraud_score": 0.9405566279239855,
+    "explanation_method": "LIME",
+    "model": "TF-IDF + Logistic Regression",
+    "num_features": 15,
+    "num_samples": 1000,
+    "feature_contributions": [
+        {
+            "feature": "service",
+            "weight": 0.1380162724581347,
+            "direction": "Fraud"
+        },
+        {
+            "feature": "phone",
+            "weight": 0.11211538213471932,
+            "direction": "Fraud"
+        },
+        {
+            "feature": "customer",
+            "weight": 0.09667135006923715,
+            "direction": "Fraud"
+        },
+        {
+            "feature": "rep",
+            "weight": 0.0863594805617832,
+            "direction": "Fraud"
+        },
+        {
+            "feature": "reps",
+            "weight": 0.0432212053084123,
+            "direction": "Fraud"
+        },
+        {
+            "feature": "explain",
+            "weight": -0.03229578759076741,
+            "direction": "Genuine"
+        },
+        {
+            "feature": "needed",
+            "weight": 0.024714296267023112,
+            "direction": "Fraud"
+        },
+        {
+            "feature": "asap",
+            "weight": -0.018865226695933615,
+            "direction": "Genuine"
+        },
+        {
+            "feature": "interview",
+            "weight": -0.015595292829276955,
+            "direction": "Genuine"
+        },
+        {
+            "feature": "will",
+            "weight": -0.0015520012074710602,
+            "direction": "Genuine"
+        },
+        {
+            "feature": "on",
+            "weight": 0.0008865446027743086,
+            "direction": "Fraud"
+        }
+    ]
+}

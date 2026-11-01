@@ -1,0 +1,26 @@
+{
+    "accuracy": 0.9549776286353467,
+    "precision": 0.5416666666666666,
+    "recall": 0.4508670520231214,
+    "f1_score": 0.4921135646687697,
+    "pr_auc": 0.48591222470684653,
+    "roc_auc": 0.9131758954611624,
+    "threshold": 0.7801821086151662,
+    "confusion_matrix": [
+        [
+            3337,
+            66
+        ],
+        [
+            95,
+            78
+        ]
+    ],
+    "training_records": 1600,
+    "validation_records": 400,
+    "testing_records": 3576,
+    "embedding_dimension": 768,
+    "training_mode": "CPU feature-level fusion",
+    "max_length": 128,
+    "training_time_seconds": 728.28
+}
