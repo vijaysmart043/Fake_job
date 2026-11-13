@@ -1,0 +1,22 @@
+{
+    "model": "TF-IDF + Structured Features + XGBoost",
+    "accuracy": 0.9619686800894854,
+    "precision": 0.5663082437275986,
+    "recall": 0.9132947976878613,
+    "f1_score": 0.6991150442477876,
+    "pr_auc": 0.9074943193825595,
+    "roc_auc": 0.9907901732405442,
+    "confusion_matrix": [
+        [
+            3282,
+            121
+        ],
+        [
+            15,
+            158
+        ]
+    ],
+    "scale_pos_weight": 19.64069264069264,
+    "training_records": 14304,
+    "testing_records": 3576
+}

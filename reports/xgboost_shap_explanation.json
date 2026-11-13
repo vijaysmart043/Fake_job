@@ -1,0 +1,157 @@
+{
+    "actual_label": 1,
+    "prediction": 1,
+    "fraud_score": 0.9633471369743347,
+    "top_features": [
+        {
+            "feature": "text__leveraging career",
+            "contribution": 1.2186062335968018,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__encouraged",
+            "contribution": 0.887722909450531,
+            "feature_value": 0.043116599321365356
+        },
+        {
+            "feature": "text__growing",
+            "contribution": -0.7191910147666931,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__founded",
+            "contribution": -0.5887958407402039,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "numeric__has_company_logo",
+            "contribution": 0.397205114364624,
+            "feature_value": 1.0
+        },
+        {
+            "feature": "text__option",
+            "contribution": 0.3878600597381592,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "categorical__industry_Restaurants",
+            "contribution": -0.37563613057136536,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__motto",
+            "contribution": 0.3735612630844116,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "categorical__function_Health Care Provider",
+            "contribution": -0.34775108098983765,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__employer",
+            "contribution": -0.34340161085128784,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__fun",
+            "contribution": -0.3432252109050751,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__quality candidates",
+            "contribution": -0.2940104305744171,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__uk",
+            "contribution": -0.28020480275154114,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__000",
+            "contribution": 0.25291213393211365,
+            "feature_value": 0.029766645282506943
+        },
+        {
+            "feature": "text__employment",
+            "contribution": -0.24327564239501953,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__earn",
+            "contribution": 0.22063100337982178,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__new exciting",
+            "contribution": 0.19855280220508575,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "categorical__required_experience_Associate",
+            "contribution": -0.18957962095737457,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "categorical__industry_Oil & Energy",
+            "contribution": 0.18866300582885742,
+            "feature_value": 1.0
+        },
+        {
+            "feature": "text__telecommunication",
+            "contribution": 0.1756725311279297,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__offshore",
+            "contribution": 0.17430584132671356,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__guests",
+            "contribution": 0.162822887301445,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__aptitude staffing",
+            "contribution": 0.16251102089881897,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__goal",
+            "contribution": -0.1605428010225296,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "categorical__location_US, TX, Houston",
+            "contribution": 0.15938664972782135,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__art",
+            "contribution": -0.15893281996250153,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__social",
+            "contribution": -0.1582893431186676,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__best buy",
+            "contribution": 0.15293481945991516,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__know",
+            "contribution": -0.15206976234912872,
+            "feature_value": 0.0
+        },
+        {
+            "feature": "text__achieve career",
+            "contribution": 0.14805957674980164,
+            "feature_value": 0.0
+        }
+    ]
+}
